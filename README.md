@@ -1,4 +1,4 @@
-# football-semantic-segmentation
+# Football Semantic Segmentation
 
 #### -- Project Status: Completed
 
